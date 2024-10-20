@@ -1,0 +1,1 @@
+# //specifically for me l need python for data analysis so for this crash course l only need basic python achitucture to write basic python program for data analysis
