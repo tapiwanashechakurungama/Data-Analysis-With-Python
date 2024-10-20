@@ -1,8 +1,4 @@
-#in this section we are going to be working with user input and validate it 
-
-
-
-
+#in this section we are going to be working with user input and validate it
 name = input("Please enter your name so that l greet you with that ")
 
 def say_hello(name):
